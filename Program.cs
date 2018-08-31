@@ -13,8 +13,10 @@ namespace ChinaArea
             string url = GlobalConstants.UrlArea;
             string html = HtmlHelper.GetHtmlContent(url);
 
+            Console.WriteLine("开始抓取数据...");
             List<Area> areaList = AreaHelper.GetAreaList(html);
             List<Area> result = AreaHelper.ProcessArea(areaList);
+            Console.WriteLine("抓取数据完毕!");
 
             string directory = AppDomain.CurrentDomain.BaseDirectory + @"data\";
             if (!Directory.Exists(directory))
