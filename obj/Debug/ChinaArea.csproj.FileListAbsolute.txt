@@ -1,0 +1,15 @@
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\bin\Debug\ChinaArea.exe
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\bin\Debug\ChinaArea.pdb
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\obj\Debug\ChinaArea.csprojAssemblyReference.cache
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\obj\Debug\ChinaArea.csproj.CoreCompileInputs.cache
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\obj\Debug\ChinaArea.exe
+E:\yijiayi\ChinaArea\ChinaArea\ChinaArea\obj\Debug\ChinaArea.pdb
+E:\yijiayi\ChinaArea\ChinaArea\obj\Debug\ChinaArea.csproj.CoreCompileInputs.cache
+E:\yijiayi\ChinaArea\ChinaArea\obj\Debug\ChinaArea.exe
+E:\yijiayi\ChinaArea\ChinaArea\obj\Debug\ChinaArea.pdb
+E:\yijiayi\ChinaArea\ChinaArea\bin\Debug\ChinaArea.exe.config
+E:\yijiayi\ChinaArea\ChinaArea\bin\Debug\ChinaArea.exe
+E:\yijiayi\ChinaArea\ChinaArea\bin\Debug\ChinaArea.pdb
+E:\yijiayi\ChinaArea\ChinaArea\bin\Debug\Newtonsoft.Json.dll
+E:\yijiayi\ChinaArea\ChinaArea\obj\Debug\ChinaArea.csproj.CopyComplete
+E:\yijiayi\ChinaArea\ChinaArea\obj\Debug\ChinaArea.csprojAssemblyReference.cache
