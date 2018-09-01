@@ -68,7 +68,7 @@ namespace ChinaArea
             {
                 Area province = provinceList[i];
                 includeList.Clear();
-                WriteLine("获取" + string.Format("[{0} {1}/{2}]", province.AreaName, i + 1, provinceList.Count));
+                WriteLine(string.Format("[{0} {1}/{2}]", province.AreaName, i + 1, provinceList.Count));
 
                 // 直辖市
                 if (province.AreaName.Contains("市"))
@@ -844,7 +844,7 @@ namespace ChinaArea
         /// <returns></returns>
         private static List<Area> GetCountyList(int index, int total, Area province, Area city)
         {
-            WriteLine("获取" + string.Format("[{0} {1}/{2}] {3}", province.AreaName, index + 1, total, city.AreaName));
+            WriteLine(string.Format("[{0} {1}/{2}] {3}", province.AreaName, index + 1, total, city.AreaName));
 
             string url = GlobalConstants.UrlCounty;
             url = string.Format(url, city.AreaCode.Substring(0, 2), city.AreaCode.Substring(0, 4));
