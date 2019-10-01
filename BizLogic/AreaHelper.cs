@@ -134,7 +134,7 @@ namespace ChinaArea
                 city.ChildrenList.Add(new Area
                 {
                     AreaName = "市辖区",
-                    AreaCode = city.AreaCode
+                    AreaCode = city.AreaCode.Substring(0, 3) + "1" + city.AreaCode.Substring(4)
                 });
             }
         }
